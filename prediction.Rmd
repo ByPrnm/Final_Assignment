@@ -1,6 +1,6 @@
 ---
 title: "Predicting Exercise Activity Type with Random Forest"
-author: "Your Name"
+author: "Bayu Purnomo"
 date: "`r Sys.Date()`"
 output: html_document
 ---
